@@ -1,0 +1,7 @@
+{
+    "name": "F3NGINE",
+    "description": "Node.js Ultraviolet instance",
+    "repository": "https://github.com/sillyangel/f3ngine",
+    "logo": "https://github.com/sillyangel/f3ngine/blob/main/logo.png?raw=true",
+    "keywords": ["tomp", "ultraviolet"]
+}
