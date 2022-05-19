@@ -2,6 +2,6 @@
     "name": "F3NGINE",
     "description": "Node.js Ultraviolet instance",
     "repository": "https://github.com/sillyangel/f3ngine",
-    "logo": "https://github.com/sillyangel/f3ngine/blob/main/logo.png?raw=true",
+    "logo": "https://raw.githubusercontent.com/sillyangel/f3ngine-static/3d5be3846b5238b712e17257b44a11a6163f27ef/logo.png",
     "keywords": ["tomp", "ultraviolet"]
 }
