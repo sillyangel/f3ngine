@@ -5,7 +5,7 @@
   },
   "name": "F3NGINE",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "F3NGINE instance",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
