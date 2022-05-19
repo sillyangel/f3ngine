@@ -127,5 +127,4 @@ Please note that UV will not function without HTTPS. If you are hosting on Repli
 
 ## Technologies Used
 - TN's UV Core Scripts
-- bare-server-node
--tomphttp
+- Tomphttp
