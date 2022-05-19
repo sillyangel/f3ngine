@@ -4,7 +4,7 @@
 <h1 align="center">F3NGINE</h1>
 
 <p align="center">Frontend of UV<br><br>
-Read more over at [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) for on how it works  Features is listed down below</p>
+Read more over at <a href="https://github.com/titaniumnetwork-dev/Ultraviolet">Ultraviolet</a> for on how it works  Features is listed down below</p>
 
 ## Quick deployments
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/sillyangel/f3ngine)
