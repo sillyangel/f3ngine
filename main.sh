@@ -10,4 +10,4 @@ if [[ -d "public" && -n "$(find public -prune -empty 2>/dev/null)" ]] || [[ ! -d
 fi
 
 
-npm start || [[ $fix = 1 ]] && npm install && npm update && git submodule update --init --recursive
+npm start || [[ $fix = 1 ]] && npm install && npm update && git submodule update --init --recursive && git pull
