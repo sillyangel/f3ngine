@@ -3,7 +3,7 @@
     "bare-server-node": "github:tomphttp/bare-server-node",
     "node-static": "^0.7.11"
   },
-  "name": "F3NGINE dev mode",
+  "name": "F3NGINE",
   "version": "1.1.0",
   "description": "F3NGINE dev",
   "main": "index.js",
