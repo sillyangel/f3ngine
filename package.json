@@ -4,8 +4,8 @@
     "node-static": "^0.7.11"
   },
   "name": "F3NGINE",
-  "version": "1.1.0",
-  "description": "F3NGINE dev",
+  "version": "2.0.0",
+  "description": "F3NGINE instance",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
