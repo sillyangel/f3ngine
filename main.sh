@@ -9,4 +9,4 @@ if [[ -d "static" && -n "$(find static -prune -empty 2>/dev/null)" ]] || [[ ! -d
 fi
 
 
-npm start || [[ $fix = 1 ]] && npm install && npm update
+npm start || [[ $fix = 1 ]] && npm install && npm update 
