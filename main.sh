@@ -1,7 +1,7 @@
 #!/bin/bash
 # Set this to 1 to automatically attempt a fix when an error occurs while running npm start.                                                                       
 fix=0
-
+echo Please dont Change any code on main.sh or any other code or it would stop the autoupdates
 # auto update
 git fetch && git pull
 
