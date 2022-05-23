@@ -7,10 +7,8 @@ import nodeStatic from 'node-static';
 const bare =  new Server('/bare/', '');
 const serve = new nodeStatic.Server('static/');
 const server = http.createServer();
-const log = require("modules/log.js");
 
 
-console.log("Please Dont ")
 server.on('request', (request, response) => {
     if (bare.route_request(request, response)) return true;
     serve.serve(request, response);
