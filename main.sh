@@ -14,6 +14,3 @@ fi
 # Started the proxy and stuff
 npm start || [[ $fix = 1 ]] && npm install && npm update && git fetch && git pull 
 
-# Error checking
-wait 10
-echo problem still occurs make a issue inside of the offical f3ninge github repo
