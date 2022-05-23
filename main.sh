@@ -6,7 +6,7 @@ fix=0
 git fetch && git pull
 
 # Stuff to do at first run(submodule, npm install).
-if [[ -d "static" && -n "$(find static -prune -empty 2>/dev/null)" ]]; || [[ ! -d "static" ]] then
+if [[ -d "static" && -n "$(find static -prune -empty 2>/dev/null)" ]] || [[ ! -d "static" ]]; then
   echo installing npm packages
   npm install
   echo finished
