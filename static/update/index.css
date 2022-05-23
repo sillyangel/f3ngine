@@ -88,7 +88,6 @@ html {
    * 2. Remove gaps in links underline in iOS 8+ and Safari 8+.
    */
   a {
-    background-color: transparent;
     /* 1 */
     -webkit-text-decoration-skip: objects;
     /* 2 */
@@ -465,7 +464,7 @@ html {
     -ms-flex-align: center;
         align-items: center;
     font-family: 'Poppins', sans-serif;
-    background-color: #2424;
+    background-color: #353535;
     background-size: cover;
     background-position: center center;
     padding: 15px;
@@ -528,7 +527,6 @@ html {
   }
   
   .s132 form .inner-form .input-field.first-wrap .choices__inner {
-    background: transparent;
     border-radius: 0;
     border: 1px solid rgba(255, 255, 255, 0.3);
     height: 100%;
@@ -570,7 +568,7 @@ html {
   
   .s132 form .inner-form .input-field.first-wrap .choices[data-type*="select-one"]:after {
     right: 30px;
-    border-color: #e5e5e5 transparent transparent transparent;
+    border-color: #e5e5e5;
   }
   
   .s132 form .inner-form .input-field.first-wrap .choices__list.choices__list--dropdown {
